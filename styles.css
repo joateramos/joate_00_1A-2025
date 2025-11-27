@@ -2,3 +2,6 @@ body{
     color: magenta;
     background: khaki;
 }
+header{
+    border-bottom: solid 2px rgb(rgb(98, 10, 10));
+}
